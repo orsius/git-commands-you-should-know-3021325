@@ -38,3 +38,8 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/8-git-commands-you-should-know
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3021325/3021325-1645560341111-16x9.jpg
+
+
+### Add a couples of lines here just for frustration
+
+> Fork a repo and code lab
